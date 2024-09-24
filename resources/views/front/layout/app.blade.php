@@ -136,7 +136,6 @@
 
     @endphp
        
-
         <div class="heading-area sticky-top">
             <div class="container">
                 <div class="row">
@@ -426,7 +425,7 @@
                         </div>
                     </div>
                     <div class="col-md-8 ">
-                        <div class="row hidden-mobile align-items-center">
+                        <div class="row hidden-mobile align-items-center mb-3">
                             <div class="col col-md-auto ms-md-auto">
                                 <div class="item-header">
                                     <ul class="social-header">
