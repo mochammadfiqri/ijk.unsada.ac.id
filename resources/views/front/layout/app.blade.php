@@ -507,13 +507,13 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="offset-md-3 col-md-6">
+                            <div class="offset-md-3 col-md-6 pb-5">
                                 <div class="search-menu">
                                     <h3 class="fas fa-search"></h3>
                                     <form action="/berita" autocomplete="off">
                                         <input type="input" class="form-input" name="q" id="search" placeholder="Ketikan kata kunci lalu ENTER...">
-                                </form>
-                                <div class="offset-md-2 col-md-6 pt-6">
+                                    </form>
+                                <div class="offset-md-2 col-md-6 pt-2">
                                         <a href="#">
                                             <img src="{{ asset('uploads/logo.png') }}" height="120" alt="Universitas Darma Persada">
                                         </a>
@@ -546,7 +546,7 @@
                                     <form action="/berita" autocomplete="off">
                                         <input type="input" class="form-input" name="q" id="search" placeholder="Ketikan kata kunci lalu ENTER...">
                                 </form>
-                                <div class="offset-md-2 col-md-6 pt-6">
+                                <div class="offset-md-2 col-md-6 pt-2">
                                         <a href="#">
                                             <img src="{{ asset('uploads/logo.png') }}" height="80" alt="Universitas Darma Persada">
                                         </a>
